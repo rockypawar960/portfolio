@@ -1,6 +1,6 @@
 import { useState } from "react";
 import javaCert from "../components/certs/java fundamental.png";
-import springCert from "../components/certs/SpringBoot.png";
+import springCert from "../components/certs/Springboot.png";
 import hacksagonCert from "../components/certs/hecksagon.png" ;
 import awsCert from "../components/certs/aws.png";
 import {
@@ -26,6 +26,7 @@ import {
 
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
+
 import { Badge } from "@/components/ui/badge";
 
 import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
